@@ -1,6 +1,6 @@
 # Telegram Forwarding Selfbot
 
-A simple Telegram self-bot to forward messages from one channel to another using Telethon.
+A simple Telegram self-bot to copy/forward messages from one channel to another using Telethon.
 
 If you like the project and it helps, give it a STAR
 
